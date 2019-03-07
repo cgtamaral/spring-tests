@@ -1,5 +1,5 @@
 
-### PUC-Minas - Poś graduação em Arquitetura de Software Distribuido 
+### PUC-Minas - Pós graduação em Arquitetura de Software Distribuido 
 ### Disciplina: Arquitetura de Software na Plataforma Java EE
 
 # Spring Tests
