@@ -3,7 +3,7 @@
 ### Disciplina: Arquitetura de Software na Plataforma Java EE
 
 # Spring Tests
-Exercio 9 de aprendizado do Framework do Spring Tests para cobertura de métodos com testes unitários e de integração.
+Exercicio 9 de aprendizado do Framework do Spring Tests para cobertura de métodos com testes unitários e de integração.
 Neste exercicio foram abordados testes unitários isolados e também testes de integração entre componentes
 
 
@@ -14,6 +14,7 @@ Neste exercicio foram abordados testes unitários isolados e também testes de i
 
 #### Instalação e execução da aplicação em ambiente local
 - Clonar o projeto em um diretório desejado;
-- Importar o código fonte no Eclipse, selecionar a opção **Existing Maven Projects**; 
+- Importar o código fonte no Eclipse, selecionar a opção **Existing Maven Projects**;
+- Na aba **Project Explorer**, clicar no projeto com o botão direito do mouse e selecionar a opção run ou debug, **JUnit Test**;
 
 
