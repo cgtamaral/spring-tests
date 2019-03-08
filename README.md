@@ -4,8 +4,8 @@
 ### Disciplina: Arquitetura de Software na Plataforma Java EE
 
 # Spring Tests
-Exercicio 9 de aprendizado do Framework do Spring Tests para cobertura de métodos com testes unitários e de integração.
-Neste exercicio foram abordados testes unitários isolados e também testes de integração entre componentes
+Exercicios 9 e 10 de aprendizado do Framework do Spring Tests para cobertura de métodos com testes unitários e de integração.
+Nestes exercicios foram abordados testes unitários isolados, testes de integração entre componentes e integração continua com o CircleCI.
 
 
 #### Pré-Requisitos
