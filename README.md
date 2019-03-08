@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/cgtamaral/spring-tests.svg?style=svg)](https://circleci.com/gh/cgtamaral/spring-tests)
 
 ### PUC-Minas - Pós graduação em Arquitetura de Software Distribuido 
 ### Disciplina: Arquitetura de Software na Plataforma Java EE
